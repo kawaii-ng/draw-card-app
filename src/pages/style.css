@@ -1,0 +1,40 @@
+body {
+
+    background: #E9EAEC;
+    
+}
+
+.btn {
+
+    background: #FAD02C;
+    border: #FAD02C;
+    color: #333652;
+
+}
+
+.btn:hover {
+
+    background: #e6b804;
+    border: #e6b804;
+    color: #333652;
+
+}
+
+.btn:visited {
+
+    background: #FAD02C;
+    border: #FAD02C;
+    box-shadow: #FAD02C;
+    color: #333652;
+
+}
+
+.btn:focus {
+
+    background: #FAD02C;
+    border: #FAD02C;
+    box-shadow: 0px 0px 0px 3px #fff2bf;
+    color: #333652;
+
+}
+
