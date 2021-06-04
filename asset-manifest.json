@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/draw-card-app/static/css/main.4df1fe62.chunk.css",
+    "main.js": "/draw-card-app/static/js/main.7304eaec.chunk.js",
+    "main.js.map": "/draw-card-app/static/js/main.7304eaec.chunk.js.map",
+    "runtime-main.js": "/draw-card-app/static/js/runtime-main.92dff02f.js",
+    "runtime-main.js.map": "/draw-card-app/static/js/runtime-main.92dff02f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/draw-card-app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.17878d40.chunk.js": "/draw-card-app/static/js/2.17878d40.chunk.js",
+    "static/js/2.17878d40.chunk.js.map": "/draw-card-app/static/js/2.17878d40.chunk.js.map",
+    "static/js/3.221d7a66.chunk.js": "/draw-card-app/static/js/3.221d7a66.chunk.js",
+    "static/js/3.221d7a66.chunk.js.map": "/draw-card-app/static/js/3.221d7a66.chunk.js.map",
+    "index.html": "/draw-card-app/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/draw-card-app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4df1fe62.chunk.css.map": "/draw-card-app/static/css/main.4df1fe62.chunk.css.map",
+    "static/js/2.17878d40.chunk.js.LICENSE.txt": "/draw-card-app/static/js/2.17878d40.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/draw-card-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92dff02f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.17878d40.chunk.js",
+    "static/css/main.4df1fe62.chunk.css",
+    "static/js/main.7304eaec.chunk.js"
+  ]
+}
